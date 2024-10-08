@@ -1,0 +1,12 @@
+{
+    "name": "com.unity.navmeshcomponents",
+    "version": "1.0.0",
+    "displayName": "NavMesh Components",
+    "description": "Components for building and using NavMesh surfaces.",
+    "unity": "2020.3",
+    "author": {
+      "name": "Unity Technologies",
+      "url": "https://github.com/Unity-Technologies/NavMeshComponents"
+    }
+  }
+  
